@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '2694'
     url: http://www.gutenberg.org/2009/agents/2694
 description: Novel about life in Canada's north.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31784#The-Frontiersman--A-Tale-of-the-Yukon
 gutenberg_issued: '2010-03-26'
 gutenberg_type: Text
 identifiers:
